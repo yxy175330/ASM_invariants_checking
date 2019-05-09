@@ -52,7 +52,7 @@ in the repository for your reference)
 <dependency>
 <groupId>junit</groupId>
 <artifactId>junit</artifactId>
-<version>4.11</version>
+<version>4.12</version>
 <scope>test</scope>
 </dependency>
 ```
